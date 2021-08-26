@@ -200,7 +200,7 @@ class Product_operation{
         }
     }
 }p;
-
+// This is used to display a smiley face onto the scree
 void Smiley(){
     cout<< "\n\t                                       ";
     cout<< "\n\t   ^^             ^^                       ";
