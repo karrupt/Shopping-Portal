@@ -1,6 +1,6 @@
 # Shopping-Portal
 ### (In C++ using OOP conceps and Double Linked List concepts)
-![Shopping Cart](images/Shopping_Portal.png)![C++ Logo](images/c++_logo.png "C++ Logo")
+![Shopping Cart](images/Shopping_Portal.png)
 ___
 ```java
                                 Overview
