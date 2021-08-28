@@ -1,8 +1,8 @@
 # Shopping-Portal
-![Shopping Cart]("images/Shopping%20Portal.png")
+![Shopping Cart]("images/Shopping\ Portal.png")
 #### (In C++ using OOP conceps and Double Linked List concepts)
 ___
-![C++ Logo]("images/c%2B%2B%20logo.png" "C++ Logo")
+![C++ Logo]("images/c++\ logo.png" "C++ Logo")
 ___
 ```java
         Overview/Abstract
@@ -23,31 +23,31 @@ In this project, there are two major sections:
 
 Following Diagram shows product class and its operations: 
 ![Product class]("images/product.png" "Product Class")
-![Product Operations Class]("images/product%20operations.png "Product Operations Class")
+![Product Operations Class]("images/product\ operations.png "Product Operations Class")
 ___
 **2->** <p>Second, we have Customer portal. As and when the Customer enters the shop his details are asked which include Customer name, Mobile Number and Address and we are Dynamically Generating Unique Id for Each Customer Visited the Shop. Also, a trolley of Product Type is assigned to the Customer which is used to store the products purchased by the Customers. Customer can select Various products available in the market and after the selection of all the items, bill is generated and after successful payment of purchased items, record of product quantities available in the shop is updated. Also, the copy of same including customer’s personal details is stored in database for future reference.</p>
 
 Following Diagram shows Customer class and its operations:
 ![Customer class]("images/customer.png "Customer Class")
-![Customer Operations Class]("images/customer%20operations.png" "Customer Operations Class")
+![Customer Operations Class]("images/customer\ operations.png" "Customer Operations Class")
 ___
 
 ## Screenshots
 
-![Customer Portal]("images/cusotmer%20portal.png" "Customer side of the protal where he/she can buy/add items to his/her trolley and generate bill")
+![Customer Portal]("images/cusotmer\ portal.png" "Customer side of the protal where he/she can buy/add items to his/her trolley and generate bill")
 ###### *how portal looks from cutomers' side*
 
-![Customer Portal]("images/Assigning%20Trolley%20To%20the%20customer.png" "Customer Trolley Assigned")
+![Customer Portal]("images/Assigning\ Trolley\ To\ the\ customer.png" "Customer Trolley Assigned")
 ###### *how Trolley looks cutomers'*
 
 
 
-![Customer Portal]("images/Administrator%20portal.png" "Administration side of the portal")
+![Customer Portal]("images/Administrator portal.png" "Administration side of the portal")
 ###### *Adminitration side of the portal where he/she can add/remove items from the list and much more*
 
 
 
-![Customer Portal]("images/Adding%20items%20to%20the%20list.png" "showing the list of items present")
+![Customer Portal]("images/Adding items to the list.png" "showing the list of items present")
 ###### *list of items to purchase from*
 
 
