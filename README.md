@@ -1,8 +1,8 @@
 # Shopping-Portal
-![Shopping Cart]("D:\G & G\Shopping Portal\images\Shopping Portal.png " "Shopping Cart")
-___
+![Shopping Cart]("https://github.com/proacher/Shopping-Portal/blob/main/images/Shopping%20Portal.png")
 #### (In C++ using OOP conceps and Double Linked List concepts)
-![C++ Logo]("D:\G & G\Shopping Portal\images\c++ logo" "C++ Logo")
+___
+![C++ Logo]("https://github.com/proacher/Shopping-Portal/blob/main/images/c%2B%2B%20logo.png" "C++ Logo")
 ___
 ```java
         Overview/Abstract
@@ -22,32 +22,32 @@ In this project, there are two major sections:
 **1->** <p>First is The Administrator portal wherein admin will be allowed to add, access, modify product details, View the list of Product currently available in the shop and the customers visited the shop. Basically, the Admin can do pretty much everything. We used Object of Product Class to store Information about Every Product separately and linked them with Double Linked List. The Product details include ProductName, Productid, Quantity of that Product Available Currently, and Product Price (per Kg/lit/item, etc.).</p>
 
 Following Diagram shows product class and its operations: 
-![Product class]("D:\G & G\Shopping Portal\images\product.png "Product Class")
-![Product Operations Class]("D:\G & G\Shopping Portal "Product Operations Class")
+![Product class]("https://github.com/proacher/Shopping-Portal/blob/main/images/product.png" "Product Class")
+![Product Operations Class]("https://github.com/proacher/Shopping-Portal/blob/main/images/product%20operations.png "Product Operations Class")
 ___
 **2->** <p>Second, we have Customer portal. As and when the Customer enters the shop his details are asked which include Customer name, Mobile Number and Address and we are Dynamically Generating Unique Id for Each Customer Visited the Shop. Also, a trolley of Product Type is assigned to the Customer which is used to store the products purchased by the Customers. Customer can select Various products available in the market and after the selection of all the items, bill is generated and after successful payment of purchased items, record of product quantities available in the shop is updated. Also, the copy of same including customer’s personal details is stored in database for future reference.</p>
 
 Following Diagram shows Customer class and its operations:
-![Customer class]("D:\G & G\Shopping Portal\images\product.png "Customer Class")
-![Customer Operations Class]("D:\G & G\Shopping Portal\images\product operations.png "Customer Operations Class")
+![Customer class]("https://github.com/proacher/Shopping-Portal/blob/main/images/customer.png "Customer Class")
+![Customer Operations Class]("https://github.com/proacher/Shopping-Portal/blob/main/images/customer%20operations.png" "Customer Operations Class")
 ___
 
 ## Screenshots
 
-![Customer Portal]("D:\G & G\Shopping Portal\images\cusotmer portal.png" "Customer side of the protal where he/she can buy/add items to his/her trolley and generate bill")
+![Customer Portal]("https://github.com/proacher/Shopping-Portal/blob/main/images/cusotmer%20portal.png" "Customer side of the protal where he/she can buy/add items to his/her trolley and generate bill")
 ###### *how portal looks from cutomers' side*
 
-![Customer Portal]("D:\G & G\Shopping Portal\images\Assigning Trolley To the customer.png" "Customer Trolley Assigned")
+![Customer Portal]("https://github.com/proacher/Shopping-Portal/blob/main/images/Assigning%20Trolley%20To%20the%20customer.png" "Customer Trolley Assigned")
 ###### *how Trolley looks cutomers'*
 
 
 
-![Customer Portal]("D:\G & G\Shopping Portal\images\Administrator portal" "Administration side of the portal")
+![Customer Portal]("https://github.com/proacher/Shopping-Portal/blob/main/images/Administrator%20portal.png" "Administration side of the portal")
 ###### *Adminitration side of the portal where he/she can add/remove items from the list and much more*
 
 
 
-![Customer Portal]("D:\G & G\Shopping Portal\images\Adding items to the list.png" "showing the list of items present")
+![Customer Portal]("https://github.com/proacher/Shopping-Portal/blob/main/images/Adding%20items%20to%20the%20list.png" "showing the list of items present")
 ###### *list of items to purchase from*
 
 
