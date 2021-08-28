@@ -1,15 +1,15 @@
 # Shopping-Portal
 ### (In C++ using OOP conceps and Double Linked List concepts)
-![Shopping Cart](images/Shopping_Portal.png)
+![Shopping Cart](images/shopping_Portal.png)
 ___
 ```java
-                                Overview
+                                        Overview
 ```
 The online shopping system presents an online display of an order cut off time and an associated delivery window for items selected by the customer. The system accepts the customer's submission of a purchase order for the item in response to a time of submission being before the order cut off time. The online shopping system does not settle with a credit supplier of the customer until the item selected by the customer is picked from inventory but before it is delivered. Therefore, the customer can go online and make changes to the order. In addition, available service windows are presented to the customer as a function of customer selected order and service types and further, the order picking is assigned in accordance with a picker's preference.
 When ordering goods, many shopping systems provide a virtual shopping cart for holding items selected for purchase. Successive items selected for purchase are placed into the virtual shopping cart until a customer completes their shopping trip. Virtual shopping carts may be examined at any time, and their contents can be edited or deleted at the option of the customer. Once the customer decides to submit a purchase order, the customer may print the contents of the virtual shopping basket in order to obtain a hard copy record of the transaction.
 ___
 ```java
-                                Implementation
+                                        Implementation
 ```
 With time complexity and dynamic nature of various operations in shopping portal in mind, we decided to implement it using Double linked list data structure using the concept of Object Oriented Programming and also Applying Recursion for Real time Implementation to keep track of Every Products in the shop, Every Customer Visited the shop and Applying Respective Operations on them.
 ___
